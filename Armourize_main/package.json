@@ -1,0 +1,11 @@
+{
+  "name": "armourize",
+  "version": "1.0.0",
+  "description": "hello armorize",
+  "main": "hello",
+  "scripts": {
+    "test": "ha"
+  },
+  "author": "",
+  "license": "ISC"
+}

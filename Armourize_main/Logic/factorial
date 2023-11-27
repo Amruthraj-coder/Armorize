@@ -1,0 +1,11 @@
+function factorial(x){
+    let sum=1;
+    for(let i=x;i!=0;i--){
+        sum*=i;
+        
+    }
+    return sum
+}
+
+let fact = factorial(100);
+console.log(fact);
